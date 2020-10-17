@@ -19,3 +19,7 @@ aside.left{
   float: inherit;
   text-align: center;
 }
+
+section{
+  border-radius: 0;
+}

@@ -118,5 +118,7 @@ section{
   background-color: white;
   padding-bottom: 0;
   overflow: hidden;
+  border-radius: 0.9375rem 0.9375rem 0 0;
+
 
 }
