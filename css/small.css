@@ -5,6 +5,7 @@
 
 .hero img{
   border-radius: 0;
+  object-fit: cover;
 }
 
 aside.right{
